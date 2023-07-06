@@ -1,0 +1,39 @@
+.mat-sidenav-container{
+    height: calc(205vh - 115vh);
+}
+
+.mat-toolbar {
+    min-height: 100px !important; 
+    height: 100px !important;
+  }
+  
+.mat-toolbar-row {
+    min-height: 100px !important; 
+    height: 100px !important;
+}
+
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.app-icon {
+    padding-left: 5%;
+}
+  
+.mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+  
+td, th {
+    width: 25%;
+}
+
+.container {
+    max-width: 1200px;
+    margin:0 auto;
+}
+
+agm-map{
+    height: 400px;
+}
